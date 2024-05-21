@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @raphaelitos
+- 👋 Hi, I’m Raphael Correia Dornelas
 - 🌱 I’m currently learning computer science at Universidade Federal do Espírito Santo
 - 📫 How to reach me: dornelasrapha@gmail.com
