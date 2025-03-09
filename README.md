@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Raphael Correia Dornelas
-- 🌱 I’m currently learning computer science at Universidade Federal do Espírito Santo
+- 🌱 I’m currently learning computer science at UFES
 - 📫 How to reach me: dornelasrapha@gmail.com
